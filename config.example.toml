@@ -1,0 +1,7 @@
+[discord]
+token = "CHANGE_ME"
+user_id = "848762953184444467"
+
+[urlroulette]
+host = "https://urlroulette.example.workers.dev/"
+secret = "CHANGE_ME"
